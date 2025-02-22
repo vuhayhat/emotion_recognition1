@@ -1,0 +1,5 @@
+django 
+opencv-python 
+numpy 
+deepface 
+pillow
